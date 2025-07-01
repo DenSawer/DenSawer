@@ -5,8 +5,8 @@ Main project: **🌿 Teplica** — an intelligent greenhouse monitoring and cont
 
 [![Website](https://img.shields.io/badge/🌐%20website-teplica.denserver.ru-blue?style=flat-square)](https://teplica.denserver.ru)
 [![GitHub Teplica](https://img.shields.io/badge/GitHub-Teplica-green?style=flat-square&logo=github)](https://github.com/DenSawer/Teplica)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](https://t.me/your_tg)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](https://t.me/DenSawer)
+[![Email](https://img.shields.io/badge/Email-kruchkov04@gmail.com-red?style=flat-square&logo=gmail)](mailto:kruchkov04@gmail.com)
 
 ---
 
@@ -39,5 +39,5 @@ Main project: **🌿 Teplica** — an intelligent greenhouse monitoring and cont
 ## 📫 Contact
 
 Feel free to reach out for collaboration, questions, or opportunities!  
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-💬 Telegram: [@your_tg](https://t.me/your_tg)
+📧 Email: [kruchkov04@gmail.com](mailto:kruchkov04@gmail.com)  
+💬 Telegram: [@DenSawer](https://t.me/DenSawer)
