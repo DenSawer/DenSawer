@@ -4,7 +4,7 @@ I'm a C++ and embedded systems developer passionate about IoT, backend systems, 
 Main project: **🌿 Teplica** — an intelligent greenhouse monitoring and control system.
 
 [![Website](https://img.shields.io/badge/🌐%20website-denserver.ru-blue?style=flat-square)](https://denserver.ru)
-[![Bot](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](https://t.me/DenServerBot)
+[![Bot](https://img.shields.io/badge/Telegram-Bot-blue?style=flat-square&logo=telegram)](https://t.me/DenServerBot)
 [![GitHub Teplica](https://img.shields.io/badge/GitHub-Teplica-green?style=flat-square&logo=github)](https://github.com/DenSawer/Teplica)
 [![My Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](https://t.me/DenSawer)
 [![Email](https://img.shields.io/badge/Email-kruchkov04@gmail.com-red?style=flat-square&logo=gmail)](mailto:kruchkov04@gmail.com)
